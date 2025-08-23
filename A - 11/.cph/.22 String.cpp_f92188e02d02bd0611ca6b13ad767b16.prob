@@ -1,0 +1,1 @@
+{"name":"Local: 22 String","url":"d:\\AT CODER\\A - 11\\22 String.cpp","tests":[{"id":1749180495454,"input":"1\n/\n","output":"Yes"},{"id":1749180502737,"input":"4\n1/22\n","output":"No\n"},{"id":1749180525364,"input":"5\n22/11\nNo","output":"No"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\AT CODER\\A - 11\\22 String.cpp","group":"local","local":true}

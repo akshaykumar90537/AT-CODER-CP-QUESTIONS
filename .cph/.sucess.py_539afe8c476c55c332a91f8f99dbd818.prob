@@ -1,0 +1,1 @@
+{"name":"Local: sucess","url":"d:\\AT CODER\\sucess.py","tests":[{"id":1749178111643,"input":"200\n","output":"200\n"},{"id":1749178120012,"input":"401\n","output":"Failure\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\AT CODER\\sucess.py","group":"local","local":true}

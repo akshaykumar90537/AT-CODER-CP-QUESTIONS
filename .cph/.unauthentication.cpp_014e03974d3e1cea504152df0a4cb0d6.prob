@@ -1,0 +1,1 @@
+{"name":"Local: unauthentication","url":"d:\\AT CODER\\unauthentication.cpp","tests":[{"id":1744461094706,"input":"6\nlogin\nprivate\npublic\nlogout\nprivate\npublic","output":"1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\AT CODER\\unauthentication.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: B - Get Min","url":"d:\\AT CODER\\B - Get Min.cpp","tests":[{"id":1755346394773,"input":"8\n1 5\n1 1\n1 1\n1 9\n2\n2\n1 2\n2\n","output":"1\n1\n2\n"},{"id":1755346494385,"input":"5\n1 6\n1 7\n2\n1 1\n2\n","output":"6\n1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\AT CODER\\B - Get Min.cpp","group":"local","local":true}

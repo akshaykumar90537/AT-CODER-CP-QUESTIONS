@@ -1,0 +1,1 @@
+{"name":"Local: PRFIX_SUM_PRIME","url":"d:\\AT CODER\\PRFIX_SUM_PRIME.cpp","tests":[{"id":1739638345778,"input":"5\n1 1 1 1 1 ","output":"1 1 1 1 1 "},{"id":1739638372115,"input":"5\n1 2 1 2 1","output":"2 1 2 1 1 "}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\AT CODER\\PRFIX_SUM_PRIME.cpp","group":"local","local":true}

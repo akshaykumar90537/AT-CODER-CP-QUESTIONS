@@ -1,0 +1,1 @@
+{"name":"Local: stsus","url":"d:\\AT CODER\\stsus.cpp","tests":[{"id":1744460020201,"input":"200","output":"Success"},{"id":1744460027210,"input":"401","output":"Failure"},{"id":1744460037091,"input":"999","output":"Failure"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\AT CODER\\stsus.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: a","url":"d:\\AT CODER\\a.cpp","tests":[{"id":1742648165531,"input":"4\n","output":"-==-\n"},{"id":1742648172903,"input":"7\n","output":"---=---\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\AT CODER\\a.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: A - ABC400 Party","url":"d:\\AT CODER\\A - ABC400 Party.cpp","tests":[{"id":1743855193833,"input":"10","output":"40"},{"id":1743855209125,"input":"11","output":"-1"},{"id":1743855226770,"input":"400","output":"1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\AT CODER\\A - ABC400 Party.cpp","group":"local","local":true}
